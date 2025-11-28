@@ -6,11 +6,11 @@
 
 I'm a passionate **[Your Job Title / Developer Role]** with experience in **[technologies you're proficient in]**. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
 
-- 🌱 Currently learning: **[new technologies or skills you're currently learning]**
-- 🔭 Working on: **[current projects or side-projects]**
-- 🌍 Languages: **[programming languages and human languages you speak]**
-- 📫 How to reach me: **[your email address or other contact information]**
-- ⚡ Mi filosofía: **[El futuro no es de quien tiene más información, sino de quien sabe interpretarla mejor. Yo ayudo a las organizaciones a encontrar su mejor destino.]**
+- 🌱 Actualmente estoy aprendiendo: **[new technologies or skills you're currently learning]**
+- 🔭 Trabajando en: **[current projects or side-projects]**
+- 🌍 Languajes: **[programming languages and human languages you speak]**
+- 📫 Como contactarme: **sergioarmijoc@gmail.com o a través de (https://www.linkedin.com/in/sergioarmijocarrillo)!**
+- ⚡ Mi filosofía: **El futuro no es de quien tiene más información, sino de quien sabe interpretarla mejor. Yo ayudo a las organizaciones a encontrar su mejor destino.**
 
 ## My Skills 🧠
 
