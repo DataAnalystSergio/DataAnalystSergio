@@ -4,7 +4,7 @@
 
 ## Acerca de mí 🚀
 
-> "Los datos son como estrellas: están ahí, brillando, pero solo generan valor cuando alguien los conecta para formar constelaciones."
+> **"Los datos son como estrellas: están ahí, brillando, pero solo generan valor cuando alguien los conecta para formar constelaciones."**
 
 Soy ese conector. Con más de **7 años de experiencia**, transformo información dispersa en mapas claros para la toma de decisiones. Mi enfoque no es solo técnico; busco la **confiabilidad del dato (99.8%)** y la automatización inteligente para liberar el potencial estratégico de los equipos.
 
