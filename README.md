@@ -44,13 +44,13 @@ Soy ese conector. Con más de **7 años de experiencia**, transformo informació
 
 ## Proyectos Destacados 💻
 
-### [Project 1 Title](project_1_link)
+### Student-performance-prediction (project_1_link)
 
-![Project 1 Screenshot](project_1_screenshot_url)
+![Tabla Comparativa de Modelos de Regresión](https://github.com/DataAnalystSergio/Student-performance-prediction/blob/f107fbe7e44cb40ddc25654f64fe4dcc7600407e/images/1.PNG?raw=true)
 
 **[Project 1 Title]** is a **[brief project description]** built with **[technologies used]**. This project demonstrates my ability to **[skills demonstrated by the project]**. You can check out the repository [Ver Repositorio](https://github.com/DataAnalystSergio/Student-performance-prediction/blob/154dc5900654e3d5b3a46d264b3f6bb5485e9e93/TP1/EJERCICIO.ipynb)
 
-### [Project 2 Title](project_2_link)
+### Bank-marketing-prediction-ml (project_2_link)
 
 ![Project 2 Screenshot](project_2_screenshot_url)
 
