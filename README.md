@@ -37,11 +37,6 @@ Soy ese conector. Con más de **7 años de experiencia**, transformo informació
 
 ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
-## Contactame 📫
-
-[![Email me](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sergioarmijoc@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sergioarmijocarrillo)
-
 ## Proyectos Destacados 💻
 
 ### Student-performance-prediction (project_1_link)
@@ -56,6 +51,10 @@ Soy ese conector. Con más de **7 años de experiencia**, transformo informació
 
 **[Project 2 Title]** is a **[brief project description]** built with **[technologies used]**. This project showcases my skills in **[skills demonstrated by the project]**. You can check out the repository [Ver Repositorio](https://github.com/DataAnalystSergio/Bank-marketing-prediction-ml/blob/5107990b9cd006f4e805b7918f024a21ad65d063/TP1/EJERCICIO_CLASIFICACION.ipynb)
 
+## Contactame 📫
+
+[![Email me](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sergioarmijoc@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sergioarmijocarrillo)
 
 <!--
 **DataAnalystSergio/DataAnalystSergio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
