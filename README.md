@@ -10,17 +10,16 @@ Soy ese conector. Con más de **7 años de experiencia**, transformo informació
 
 - 🌱 Actualmente estoy aprendiendo: **Todo sobre el ecosistema Cloud & Big Data (Spark SQL, Delta Tables).**
 - 🔭 Trabajando en: **Proyectos de análisis de Big Data con Databricks**
-- 🌍 Lenguajes: **Python y SQL**
 - 📫 Como contactarme: **sergioarmijoc@gmail.com o a través de (https://www.linkedin.com/in/sergioarmijocarrillo)!**
 - ⚡ Mi filosofía: **El futuro no es de quien tiene más información, sino de quien sabe interpretarla mejor. Yo ayudo a las organizaciones a encontrar su mejor destino.**
 
-## Mis Skills 🧠
+## Skills 🧠
 
-#### 🔧 Languages
+#### 🔧 Lenguajes
 
 ![Python](https://img.shields.io/badge/Python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
 
-#### 📚 Libraries
+#### 📚 Librerias
 
 ![Numpy](https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
