@@ -10,7 +10,6 @@ Soy ese conector. Con más de **7 años de experiencia**, transformo informació
 
 - 🌱 Actualmente estoy aprendiendo: **Todo sobre el ecosistema Cloud & Big Data (Spark SQL, Delta Tables).**
 - 🔭 Trabajando en: **Proyectos de análisis de Big Data con Databricks**
-- 📫 Como contactarme: **sergioarmijoc@gmail.com o a través de (https://www.linkedin.com/in/sergioarmijocarrillo)!**
 - ⚡ Mi filosofía: **El futuro no es de quien tiene más información, sino de quien sabe interpretarla mejor. Yo ayudo a las organizaciones a encontrar su mejor destino.**
 
 ## Skills 🧠
@@ -38,7 +37,7 @@ Soy ese conector. Con más de **7 años de experiencia**, transformo informació
 
 ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
-## Contactame 📧
+## Contactame 📫
 
 [![Email me](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sergioarmijoc@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sergioarmijocarrillo)
