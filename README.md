@@ -18,6 +18,7 @@ Soy ese conector. Con más de **7 años de experiencia**, transformo informació
 #### 🔧 Lenguajes
 
 ![Python](https://img.shields.io/badge/Python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/sql-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 
 #### 📚 Librerias
 
