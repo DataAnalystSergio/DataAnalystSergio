@@ -52,7 +52,7 @@ Soy ese conector. Con más de **7 años de experiencia**, transformo informació
 
 ### Bank-marketing-prediction-ml (project_2_link)
 
-![Project 2 Screenshot](project_2_screenshot_url)
+![Curva ROC y AUC](https://github.com/DataAnalystSergio/Bank-marketing-prediction-ml/blob/3bd313f431a070d17e66e83c150b8a2d78f6d09c/IMAG/1.PNG?raw=true)
 
 **[Project 2 Title]** is a **[brief project description]** built with **[technologies used]**. This project showcases my skills in **[skills demonstrated by the project]**. You can check out the repository [Ver Repositorio](https://github.com/DataAnalystSergio/Bank-marketing-prediction-ml/blob/5107990b9cd006f4e805b7918f024a21ad65d063/TP1/EJERCICIO_CLASIFICACION.ipynb)
 
