@@ -2,21 +2,23 @@
 
 ![Banner Image](https://github.com/DataAnalystSergio/DataAnalystSergio/blob/2435e945a76519e4248f397eaab076f45cd03759/IMG-20251127-WA0020.jpg)
 
-## About Me 🚀
+## Acerca de mí 🚀
 
-I'm a passionate **[Your Job Title / Developer Role]** with experience in **[technologies you're proficient in]**. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
+> "Los datos son como estrellas: están ahí, brillando, pero solo generan valor cuando alguien los conecta para formar constelaciones."
 
-- 🌱 Actualmente estoy aprendiendo: **[new technologies or skills you're currently learning]**
-- 🔭 Trabajando en: **[current projects or side-projects]**
-- 🌍 Languajes: **[programming languages and human languages you speak]**
+Soy ese conector. Con más de **7 años de experiencia**, transformo información dispersa en mapas claros para la toma de decisiones. Mi enfoque no es solo técnico; busco la **confiabilidad del dato (99.8%)** y la automatización inteligente para liberar el potencial estratégico de los equipos.
+
+- 🌱 Actualmente estoy aprendiendo: **Todo sobre el ecosistema Cloud & Big Data (Spark SQL, Delta Tables).**
+- 🔭 Trabajando en: **Proyectos de análisis de Big Data con Databricks**
+- 🌍 Lenguajes: **Python y SQL**
 - 📫 Como contactarme: **sergioarmijoc@gmail.com o a través de (https://www.linkedin.com/in/sergioarmijocarrillo)!**
 - ⚡ Mi filosofía: **El futuro no es de quien tiene más información, sino de quien sabe interpretarla mejor. Yo ayudo a las organizaciones a encontrar su mejor destino.**
 
-## My Skills 🧠
+## Mis Skills 🧠
 
 *Replace the above skill badges with your own skills and expertise. To create more badges, use [checkout this repo](https://github.com/alexandresanlim/Badges4-README.md-Profile).*
 
-## Featured Projects 💻
+## Proyectos Destacados 💻
 
 ### [Project 1 Title](project_1_link)
 
