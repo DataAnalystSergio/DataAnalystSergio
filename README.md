@@ -1,4 +1,4 @@
-# Hi there, I'm Sergio Armijo Carrillo! 👋
+# Hi there, I'm Sergio Armijo Carrillo! 🌟
 
 ![Banner Image](https://github.com/DataAnalystSergio/DataAnalystSergio/blob/2435e945a76519e4248f397eaab076f45cd03759/IMG-20251127-WA0020.jpg)
 
@@ -32,9 +32,6 @@ Soy ese conector. Con más de **7 años de experiencia**, transformo informació
 
 **[Project 2 Title]** is a **[brief project description]** built with **[technologies used]**. This project showcases my skills in **[skills demonstrated by the project]**. You can check out the repository [here](project_2_repository_link).
 
-## Get in Touch 📬
-
-- **[LinkedIn]**(your_linkedin_profile_link)
 
 <!--
 **DataAnalystSergio/DataAnalystSergio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
