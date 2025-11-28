@@ -10,7 +10,7 @@ I'm a passionate **[Your Job Title / Developer Role]** with experience in **[tec
 - 🔭 Working on: **[current projects or side-projects]**
 - 🌍 Languages: **[programming languages and human languages you speak]**
 - 📫 How to reach me: **[your email address or other contact information]**
-- ⚡ Fun fact: **[a fun fact about yourself]**
+- ⚡ Mi filosofía: **[El futuro no es de quien tiene más información, sino de quien sabe interpretarla mejor. Yo ayudo a las organizaciones a encontrar su mejor destino.]**
 
 ## My Skills 🧠
 
