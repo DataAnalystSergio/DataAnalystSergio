@@ -39,13 +39,13 @@ Soy ese conector. Con más de **7 años de experiencia**, transformo informació
 
 ## Proyectos Destacados 💻
 
-### Student-performance-prediction (project_1_link)
+### Student-performance-prediction
 
 ![Tabla Comparativa de Modelos de Regresión](https://github.com/DataAnalystSergio/Student-performance-prediction/blob/f107fbe7e44cb40ddc25654f64fe4dcc7600407e/images/1.PNG?raw=true)
 
 **Modelo Predictivo de Rendimiento Académico** es una solución de análisis predictivo construida con **Python** (Pandas, Scikit-learn) y Matplotlib/Seaborn. Este proyecto demuestra mi capacidad para **construir y validar modelos de Machine Learning (Regresión)**, realizar análisis de **causa-raíz** y transformar resultados estadísticos complejos en conclusiones de negocio accionables. You can check out the repository [Ver Repositorio](https://github.com/DataAnalystSergio/Student-performance-prediction)
 
-### Bank-marketing-prediction-ml (project_2_link)
+### Bank-marketing-prediction-ml
 
 ![Curva ROC y AUC](https://github.com/DataAnalystSergio/Bank-marketing-prediction-ml/blob/3bd313f431a070d17e66e83c150b8a2d78f6d09c/IMAG/1.PNG?raw=true)
 
