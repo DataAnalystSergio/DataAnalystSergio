@@ -50,8 +50,7 @@ Soy ese conector. Con más de **7 años de experiencia**, transformo informació
 ![Curva ROC y AUC](https://github.com/DataAnalystSergio/Bank-marketing-prediction-ml/blob/3bd313f431a070d17e66e83c150b8a2d78f6d09c/IMAG/1.PNG?raw=true)
 
 **Modelo Predictivo de Suscripción Bancaria** es una solución de Machine Learning (ML) enfocada en la **clasificación de clientes bancarios** construida con **Python**, el algoritmo XGBoost, Scikit-learn y la técnica de sobremuestreo SMOTE. Este proyecto demuestra mi capacidad para manejar el **desequilibrio de clases**, optimizar **modelos avanzados de clasificación** para obtener un alto AUC (0.8914), y evaluar el **impacto de negocio** del modelo ajustando el umbral de probabilidad (Precision vs. Recall).
-You can check out the repository [Ver Repositorio](https://github.com/DataAnalystSergio/Bank-marketing-prediction-ml/blob/5107990b9cd006f4e805b7918f024a21ad65d063/TP1/EJERCICIO_CLASIFICACION.ipynb)
-
+You can check out the repository [Ver Repositorio](https://github.com/DataAnalystSergio/Bank-marketing-prediction-ml)
 ## Contactame 📫
 
 [![Email me](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sergioarmijoc@gmail.com)
