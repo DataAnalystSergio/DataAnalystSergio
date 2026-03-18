@@ -2,17 +2,30 @@
 
 ![Banner Image](https://github.com/DataAnalystSergio/DataAnalystSergio/blob/2435e945a76519e4248f397eaab076f45cd03759/IMG-20251127-WA0020.jpg)
 
-## Acerca de mí 🚀
+## 🧑‍💻 Sobre mí
 
-> **"Los datos son como estrellas: están ahí, brillando, pero solo generan valor cuando alguien los conecta para formar constelaciones."**
+Soy Analista de Datos con enfoque en **entender el negocio antes que los datos**.
+Mi objetivo es transformar la información en **decisiones claras, accionables y medibles**.
 
-Soy ese conector. Con más de **7 años de experiencia**, transformo información dispersa en mapas claros para la toma de decisiones. Mi enfoque no es solo técnico; busco la **confiabilidad del dato (99.8%)** y la automatización inteligente para liberar el potencial estratégico de los equipos.
+Trabajo en:
 
-- 🌱 Actualmente estoy aprendiendo: **Todo sobre el ecosistema Cloud & Big Data (Spark SQL, Delta Tables).**
-- 🔭 Trabajando en: **Proyectos de análisis de Big Data con Databricks**
-- ⚡ Mi filosofía: **El futuro no es de quien tiene más información, sino de quien sabe interpretarla mejor. Yo ayudo a las organizaciones a encontrar su mejor destino.**
+📌 Identificación de problemas de negocio
+📌 Análisis exploratorio y generación de insights
+📌 Modelado de datos y análisis predictivo
+📌 Visualización para toma de decisiones
 
-## Skills 🧠
+## 🧰 Stack Tecnológico
+
+#### 🔧 Lenguajes
+
+![SQL](https://img.shields.io/badge/sql-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![Python](https://img.shields.io/badge/Python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
+
+#### 📈 BI
+
+![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+
+
 
 #### ☁️ Big Data & Cloud
 
@@ -21,10 +34,7 @@ Soy ese conector. Con más de **7 años de experiencia**, transformo informació
 ![Azure](https://img.shields.io/badge/azure-%230078D4.svg?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-%23232F3E.svg?style=for-the-badge&logo=amazon-web-services&logoColor=white)
 
-#### 🔧 Lenguajes
 
-![Python](https://img.shields.io/badge/Python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/sql-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 
 #### 📚 Librerias de Ciencias de Datos
 
@@ -33,9 +43,7 @@ Soy ese conector. Con más de **7 años de experiencia**, transformo informació
 ![Scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23E20000.svg?style=for-the-badge&logo=matplotlib&logoColor=white)
 
-#### 📈 BI
 
-![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
 ## Proyectos Destacados 💻
 
