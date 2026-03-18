@@ -11,9 +11,12 @@ Trabajo en:
 
 📌 Identificación de problemas de negocio
 
+
 📌 Análisis exploratorio y generación de insights
 
+
 📌 Modelado de datos y análisis predictivo
+
 
 📌 Visualización para toma de decisiones
 
