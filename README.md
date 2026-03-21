@@ -57,7 +57,7 @@ Trabajo en:
 
 ![Impacto_financiero_sobreprecio_compras](https://github.com/DataAnalystSergio/Impacto-financiero-sobreprecios-compras/blob/main/dashboards/screenshots/dashboard1.PNG)
 
-**Modelo Predictivo de Rendimiento Académico** es una solución de análisis predictivo construida con **Python** (Pandas, Scikit-learn) y Matplotlib/Seaborn. Este proyecto demuestra mi capacidad para **construir y validar modelos de Machine Learning (Regresión)**, realizar análisis de **causa-raíz** y transformar resultados estadísticos complejos en conclusiones de negocio accionables. You can check out the repository [Ver Repositorio](https://github.com/DataAnalystSergio/Impacto-financiero-sobreprecios-compras)
+**Impacto Financiero de Sobreprecios en Compras** es un proyecto de análisis de datos que aborda la **falta de control en los precios** de adquisición, una problemática que genera **sobrecostos y desviaciones presupuestarias** en las organizaciones. Desarrollado con Databricks y Power BI, este proyecto demuestra mi capacidad para identificar ineficiencias, cuantificar su **impacto financiero** y convertir datos en decisiones estratégicas orientadas a la **reducción de costos**. You can check out the repository [Ver Repositorio](https://github.com/DataAnalystSergio/Impacto-financiero-sobreprecios-compras)
 
 ### Bank-marketing-prediction-ml
 
