@@ -55,7 +55,7 @@ Trabajo en:
 
 ### Impacto-financiero-sobreprecio-compras
 
-![Tabla Comparativa de Modelos de Regresión](https://github.com/DataAnalystSergio/Student-performance-prediction/blob/f107fbe7e44cb40ddc25654f64fe4dcc7600407e/images/1.PNG?raw=true)
+![Impacto_financiero_sobreprecio_compras](https://github.com/DataAnalystSergio/Impacto-financiero-sobreprecios-compras/blob/main/dashboards/screenshots/dashboard1.PNG)
 
 **Modelo Predictivo de Rendimiento Académico** es una solución de análisis predictivo construida con **Python** (Pandas, Scikit-learn) y Matplotlib/Seaborn. Este proyecto demuestra mi capacidad para **construir y validar modelos de Machine Learning (Regresión)**, realizar análisis de **causa-raíz** y transformar resultados estadísticos complejos en conclusiones de negocio accionables. You can check out the repository [Ver Repositorio](https://github.com/DataAnalystSergio/Student-performance-prediction)
 
