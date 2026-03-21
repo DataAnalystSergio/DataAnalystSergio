@@ -53,7 +53,7 @@ Trabajo en:
 
 ## Proyectos Destacados 💻
 
-### Student-performance-prediction
+### Impacto-financiero-sobreprecio-compras
 
 ![Tabla Comparativa de Modelos de Regresión](https://github.com/DataAnalystSergio/Student-performance-prediction/blob/f107fbe7e44cb40ddc25654f64fe4dcc7600407e/images/1.PNG?raw=true)
 
