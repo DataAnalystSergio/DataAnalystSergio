@@ -53,18 +53,18 @@ Trabajo en:
 
 ## Proyectos Destacados 💻
 
+
+### Impacto-riesgo-credito-banca
+
+**Impacto del Riesgo de Crédito (Morosidad/Default)** es un proyecto de análisis de datos que aborda la **identificación de clientes con alta probabilidad de incumplimiento**, una problemática que genera **pérdidas** significativas en la cartera bancaria. Desarrollado con Databricks, AWS y Power BI, este proyecto demuestra mi capacidad para **segmentar riesgo**, cuantificar la **pérdida esperada** y traducir datos en decisiones estratégicas orientadas a la **reducción de pérdidas** y optimización del crédito. You can check out the repository [Ver Repositorio](https://github.com/DataAnalystSergio/Impacto-financiero-sobreprecios-compras)
+
+
 ### Impacto-financiero-sobreprecio-compras
 
 ![Impacto_financiero_sobreprecio_compras](https://github.com/DataAnalystSergio/Impacto-financiero-sobreprecios-compras/blob/main/dashboards/screenshots/dashboard1.PNG)
 
 **Impacto Financiero de Sobreprecios en Compras** es un proyecto de análisis de datos que aborda la **falta de control en los precios** de adquisición, una problemática que genera **sobrecostos y desviaciones presupuestarias** en las organizaciones. Desarrollado con Databricks y Power BI, este proyecto demuestra mi capacidad para identificar ineficiencias, cuantificar su **impacto financiero** y convertir datos en decisiones estratégicas orientadas a la **reducción de costos**. You can check out the repository [Ver Repositorio](https://github.com/DataAnalystSergio/Impacto-financiero-sobreprecios-compras)
 
-### Bank-marketing-prediction-ml
-
-![Curva ROC y AUC](https://github.com/DataAnalystSergio/Bank-marketing-prediction-ml/blob/3bd313f431a070d17e66e83c150b8a2d78f6d09c/IMAG/1.PNG?raw=true)
-
-**Modelo Predictivo de Suscripción Bancaria** es una solución de Machine Learning (ML) enfocada en la **clasificación de clientes bancarios** construida con **Python**, el algoritmo XGBoost, Scikit-learn y la técnica de sobremuestreo SMOTE. Este proyecto demuestra mi capacidad para manejar el **desequilibrio de clases**, optimizar **modelos avanzados de clasificación** para obtener un alto AUC (0.8914), y evaluar el **impacto de negocio** del modelo ajustando el umbral de probabilidad (Precision vs. Recall).
-You can check out the repository [Ver Repositorio](https://github.com/DataAnalystSergio/Bank-marketing-prediction-ml)
 ## Contactame 📫
 
 [![Email me](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sergioarmijoc@gmail.com)
