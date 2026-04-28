@@ -56,7 +56,10 @@ Trabajo en:
 
 ### Impacto-riesgo-credito-banca
 
-**Impacto del Riesgo de Crédito (Morosidad/Default)** es un proyecto de análisis de datos que aborda la **identificación de clientes con alta probabilidad de incumplimiento**, una problemática que genera **pérdidas** significativas en la cartera bancaria. Desarrollado con Databricks, AWS y Power BI, este proyecto demuestra mi capacidad para **segmentar riesgo**, cuantificar la **pérdida esperada** y traducir datos en decisiones estratégicas orientadas a la **reducción de pérdidas** y optimización del crédito. You can check out the repository [Ver Repositorio](https://github.com/DataAnalystSergio/Impacto-financiero-sobreprecios-compras)
+![Impacto_riesgo_credito_banca](https://github.com/DataAnalystSergio/Credit-risk-banca/blob/main/dashboard/screenshots/Dashboard_1.jpg)
+
+**Impacto del Riesgo de Crédito (Morosidad/Default)** es un proyecto de análisis de datos que aborda la **identificación de clientes con alta probabilidad de incumplimiento**, una problemática que genera **pérdidas** significativas en la cartera bancaria. Desarrollado con Databricks, AWS y Power BI, este proyecto demuestra mi capacidad para **segmentar riesgo**, cuantificar la **pérdida esperada** y traducir datos en decisiones estratégicas orientadas a la **reducción de pérdidas** y optimización del crédito. You can check out the repository [Ver Repositorio](
+https://github.com/DataAnalystSergio/Credit-risk-banca)
 
 
 ### Impacto-financiero-sobreprecio-compras
