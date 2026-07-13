@@ -54,6 +54,13 @@ Trabajo en:
 ## Proyectos Destacados 💻
 
 
+###     Fraudulent-Transactions
+
+![Deteccion_Fraudes](https://github.com/DataAnalystSergio/Fraudulent-Transactions/blob/e5546fe84d9df28be9d38aa234e98bdf38ca74e0/4.Dashboard/1.PNG)
+
+**Detección de Transacciones Fraudulentas en el Mercado de Capitales** es un proyecto de analítica de datos que aborda la identificación de **patrones de fraude financiero** mediante reglas de negocio y análisis de anomalías. Desarrollado con **Microsoft Fabric**, integra una arquitectura **Medallion (Bronze, Silver y Gold), Modelo Semántico, Modelo de Grafos, Agente de Datos con IA y Power BI**, demostrando mi capacidad para transformar grandes volúmenes de datos en información estratégica que fortalece la **gestión del riesgo, el cumplimiento regulatorio y la toma de decisiones**. You can check out the repository [Ver Repositorio](https://github.com/DataAnalystSergio/Fraudulent-Transactions.git)
+
+
 ### Impacto-riesgo-credito-banca
 
 ![Impacto_riesgo_credito_banca](https://github.com/DataAnalystSergio/Credit-risk-banca/blob/main/dashboard/screenshots/Dashboard_1.jpg)
@@ -61,12 +68,6 @@ Trabajo en:
 **Impacto del Riesgo de Crédito (Morosidad/Default)** es un proyecto de análisis de datos que aborda la **identificación de clientes con alta probabilidad de incumplimiento**, una problemática que genera **pérdidas** significativas en la cartera bancaria. Desarrollado con Databricks, AWS y Power BI, este proyecto demuestra mi capacidad para **segmentar riesgo**, cuantificar la **pérdida esperada** y traducir datos en decisiones estratégicas orientadas a la **reducción de pérdidas** y optimización del crédito. You can check out the repository [Ver Repositorio](
 https://github.com/DataAnalystSergio/Credit-risk-banca)
 
-
-### Impacto-financiero-sobreprecio-compras
-
-![Impacto_financiero_sobreprecio_compras](https://github.com/DataAnalystSergio/Impacto-financiero-sobreprecios-compras/blob/main/dashboards/screenshots/dashboard1.PNG)
-
-**Impacto Financiero de Sobreprecios en Compras** es un proyecto de análisis de datos que aborda la **falta de control en los precios** de adquisición, una problemática que genera **sobrecostos y desviaciones presupuestarias** en las organizaciones. Desarrollado con Databricks y Power BI, este proyecto demuestra mi capacidad para identificar ineficiencias, cuantificar su **impacto financiero** y convertir datos en decisiones estratégicas orientadas a la **reducción de costos**. You can check out the repository [Ver Repositorio](https://github.com/DataAnalystSergio/Impacto-financiero-sobreprecios-compras)
 
 ## Contactame 📫
 
