@@ -4,21 +4,36 @@
 
 ## 🧑‍💻 Sobre mí
 
-Soy Analista de Datos con enfoque en **entender el negocio antes que los datos**.
-Mi objetivo es transformar la información en **decisiones claras, accionables y medibles**.
+Soy **Analista de Datos & IA** con enfoque en **entender el negocio antes que los datos**. 
+Mi objetivo es transformar información en **insights claros, decisiones accionables y resultados medibles**.
 
-Trabajo en:
+Me interesa conectar el análisis de datos con las necesidades reales del negocio, 
+identificando patrones, riesgos y oportunidades que permitan mejorar la toma de decisiones.
 
-📌 Identificación de problemas de negocio
+## 🔎 ¿En qué trabajo?
 
+📌 **Identificación y entendimiento de problemas de negocio**  
+Traduzco necesidades del negocio en preguntas que puedan ser respondidas mediante datos.
 
-📌 Análisis exploratorio y generación de insights
+📌 **Análisis exploratorio e identificación de insights**  
+Exploro los datos para encontrar patrones, tendencias, anomalías y variables relevantes.
 
+📌 **Modelado y transformación de datos**  
+Construyo modelos orientados al análisis y preparo datos para generar información confiable y reutilizable.
 
-📌 Modelado de datos y análisis predictivo
+📌 **Análisis de riesgo y comportamiento**  
+Analizo fenómenos como **fraude, morosidad, riesgo crediticio y abandono de clientes (Churn)**.
 
+📌 **Visualización y storytelling con datos**  
+Transformo resultados analíticos en dashboards e indicadores que faciliten la interpretación y la toma de decisiones.
 
-📌 Visualización para toma de decisiones
+📌 **Cloud, Big Data e Inteligencia Artificial**  
+Desarrollo soluciones de análisis utilizando tecnologías cloud, procesamiento de datos y arquitecturas basadas en IA y agentes.
+
+## 🎯 Mi enfoque
+
+> **Negocio → Datos → Análisis → Insight → Decisión → Impacto**
+
 
 ## 🧰 Stack Tecnológico
 
