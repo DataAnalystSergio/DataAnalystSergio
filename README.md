@@ -50,7 +50,7 @@ Trabajo en:
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23E20000.svg?style=for-the-badge&logo=matplotlib&logoColor=white)
 
 
-#### 📚 Entorno de Desarrollo Integrado (IDE)
+#### 🖥️ Entorno de Desarrollo Integrado (IDE)
 
 ![Visual Studio Code](https://a11ybadges.com/badge?logo=visualstudiocode)
 
