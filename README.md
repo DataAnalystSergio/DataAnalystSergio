@@ -56,6 +56,10 @@ Trabajo en:
 ![Visual Studio Code](https://a11ybadges.com/badge?logo=visualstudiocode)
 
 
+### 🤖 AI & Agentic AI
+
+
+
 ## Proyectos Destacados 💻
 
 ### Sistema multiagente Churn con Google ADK
