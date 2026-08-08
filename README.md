@@ -58,6 +58,10 @@ Trabajo en:
 
 ### 🤖 AI & Agentic AI
 
+<img src="Images/vertexai.png" alt="Vertex AI" width="30">
+<img src="Images/gemini.png" alt="Gemini" width="30">
+<img src="Images/adk.png" alt="Google ADK" width="30">
+
 
 
 ## Proyectos Destacados 💻
