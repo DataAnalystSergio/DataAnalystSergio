@@ -36,7 +36,7 @@ Trabajo en:
 #### ☁️ Big Data & Cloud
 
 ![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
-<img src="Images/Microsoft_Fabric_2023.png" alt="Microsoft Fabric" width="150">
+<img src="Images/Microsoft_Fabric_2023.png" alt="Microsoft Fabric" width="110">
 ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C.svg?style=for-the-badge&logo=apache-spark&logoColor=white)
 ![Azure](https://img.shields.io/badge/azure-%230078D4.svg?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-%23232F3E.svg?style=for-the-badge&logo=amazon-web-services&logoColor=white)
