@@ -1,6 +1,6 @@
 # Hi there, I'm Sergio Armijo Carrillo! 🌟
 
-![Banner](https://github.com/DataAnalystSergio/DataAnalystSergio/blob/main/Images/Banner_datos.jpg)
+![Banner]([https://github.com/DataAnalystSergio/DataAnalystSergio/blob/main/Images/banner.png])
 
 ## 🧑‍💻 Sobre mí
 
