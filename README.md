@@ -83,9 +83,10 @@ Desarrollo soluciones de análisis utilizando tecnologías cloud, procesamiento 
 
 ### Sistema multiagente Churn con Google ADK
 
-![Multiagentes]()
-![Looker]()
-![flujo]()
+![playground](https://github.com/DataAnalystSergio/Churn-MultiAgent-ADK/blob/main/agente_de_datos/playground.png)
+![Multiagentes](https://github.com/DataAnalystSergio/Churn-MultiAgent-ADK/blob/main/agente_de_datos/orquestador.png)
+![Looker](https://github.com/DataAnalystSergio/Churn-MultiAgent-ADK/blob/main/dashboards/1.png)
+![arquitectura_google](https://github.com/DataAnalystSergio/Churn-MultiAgent-ADK/blob/main/images/arquitectura_google.png)
 
 **Sistema Multiagente para el Análisis del Abandono de Clientes (Churn) en una Entidad Bancaria** es un proyecto de análisis de datos desarrollado con **Google ADK, Vertex AI, Gemini, BigQuery y Looker Studio**. La solución implementa una **arquitectura multiagente** compuesta por un **Coordinator Agent** y agentes especializados en indicadores (KPI), análisis de clientes y estrategias de retención, capaces de responder consultas en lenguaje natural utilizando datos reales almacenados en BigQuery. El proyecto demuestra cómo integrar analítica de datos, inteligencia artificial generativa y servicios de Google Cloud para apoyar la toma de decisiones comerciales y mejorar la retención de clientes. You can check out the repository [Ver_Repositorio](https://github.com/DataAnalystSergio/Churn-MultiAgent-ADK)
 
